@@ -99,8 +99,8 @@ Dependencies of ExampleModule:
 --------------------------------------------
 Depends to ExampleModule:
 --------------------------------------------
-- SharedUtils (20M)
-- MyModule (7.2M)
+- SharedUtils
+- MyModule
 --------------------------------------------
 NOT RELATED WITH ExampleModule:
 --------------------------------------------
